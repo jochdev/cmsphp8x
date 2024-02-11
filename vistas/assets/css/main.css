@@ -1,0 +1,76 @@
+
+/* General */
+body{
+    background-color: #FDFDFD;
+    font-family: 'Poppins', sans-serif;
+}
+#wrapperuno {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px 0;
+}
+
+#wrapper {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px 0;
+}
+
+
+form {
+  margin-top: 30px;
+  text-align: left;
+}
+a {
+  text-decoration: none;
+}
+.card-post{
+  text-align: left;
+  border-radius: 8px;
+  background-color: #FFFFFF;
+  color: #012B44;
+  border-color: transparent;
+
+}
+
+.card-post h3{
+  font-size: 18px;
+}
+/* Colores */
+
+/* Tipografia */
+
+/* Imagenes */
+/* Botones */
+
+
+input ,select{
+    background: white;
+    color: rgb(7 2 18);
+    transition: all 200ms ease;
+    border-left: 0 solid transparent;
+    border: 0;
+    height:calc(2.8rem * 1);
+
+    border-radius: calc(5.8rem * 0.3);
+  }
+
+
+  /* Titulos */
+
+  .titleh1{
+    font-size: 32px;
+
+  }
+
+
+
+.titlecardaccount{
+  font-weight: 500;
+  font-size: 18px;
+  color: #0085C8;
+}

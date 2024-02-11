@@ -1,0 +1,112 @@
+[10-Feb-2024 21:23:43 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(33): FPDF->Output('I', 'publicaciones.p...', true)
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:24:33 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(35): FPDF->Output('I', 'publicaciones.p...', true)
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:24:34 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(35): FPDF->Output('I', 'publicaciones.p...', true)
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:24:34 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(35): FPDF->Output('I', 'publicaciones.p...', true)
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:24:35 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(35): FPDF->Output('I', 'publicaciones.p...', true)
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:24:36 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(35): FPDF->Output('I', 'publicaciones.p...', true)
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:25:23 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(35): FPDF->Output('I', 'publicaciones.p...', true)
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:28:21 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(39): FPDF->Output()
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:28:22 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(39): FPDF->Output()
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:28:22 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(39): FPDF->Output()
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:28:22 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(39): FPDF->Output()
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:28:23 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(39): FPDF->Output()
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:28:23 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(39): FPDF->Output()
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:28:23 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(39): FPDF->Output()
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:28:23 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(39): FPDF->Output()
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
+[10-Feb-2024 21:32:08 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/posupapp/posupapps.com/jheredia/modelos/publicacionModelo.php:1) in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php:271
+Stack trace:
+#0 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/posupapp/posupapps.com/jheredia/pdf/autores.php(79): FPDF->Output('I', 'publicaciones.p...', true)
+#3 {main}
+  thrown in /home/posupapp/posupapps.com/jheredia/pdf/fpdf.php on line 271
